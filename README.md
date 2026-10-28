@@ -1,1 +1,0 @@
-# for-star-pattern.py
